@@ -14,7 +14,7 @@ The goal of this initiative is to give researchers tools and training to help ma
 
 ## Community Building Initiative
 The goal of this initiative is to build and grow a strong local open source community comprised of faculty, staff, and students.  The OSPO hopes to be a bridge connecting members of the GW community across disciplines and other barriers to create an inclusive and diverse set of passionate open source supporters.
- - Student Award Programs
+ - [Student Award Programs](student_awards.md)
  - GW Open Source Conference
  - Providing training and resources to support collaborative open-source software development
     - GW Enterprise Github with Copilot and other add-ons
@@ -25,5 +25,10 @@ GW's location in Washington DC and our expertise in Law and Political Science co
  - Forming external partnerships to help amplify and advocate for open practices
     - Founding member of Open Forum for AI (OFAI) hosted by CMU
     - Membership in multiple open source advocacy organizations (CURIOSS, CHAOSS, SustainOSS, InnerSourceCommons, opensource.science)
+
+<br>
+<br>
+
+Please [book a consultation](https://calendly.com/david-lippert/30min) to learn more about any of these topics
 
 
