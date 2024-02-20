@@ -1,7 +1,7 @@
 # Initiatives
 The primary functions of the OSPO are to foster a culture of networked collaboration, promoting open-source software development, open data, and open access in research and education, and to support the university community in adoption of open practices.  
 
-The following initiatives are the OSPO is The office also aims to maximize social impact on a global scale based on GWU’s research, teaching and policy expertise.
+The following initiatives aim to maximize social impact on a local and global scale leveraging GWU’s research, teaching, and policy expertise.
 
 ## Open Research Initiative
 The goal of this initiative is to give researchers tools and training to help maximize the quality, reproducibility, and accessibility of their research.
@@ -24,6 +24,6 @@ GW's location in Washington DC and our expertise in Law and Political Science co
  - Developing and implementing policies, processes, and guidelines in coordination with other university OSPOs for open-source software and open scholarship
  - Forming external partnerships to help amplify and advocate for open practices
     - Founding member of Open Forum for AI (OFAI) hosted by CMU
-    - Member in multiple open source advocacy organizations (CURIOSS, CHAOSS, SustainOSS, InnerSourceCommons, opensource.science)
+    - Membership in multiple open source advocacy organizations (CURIOSS, CHAOSS, SustainOSS, InnerSourceCommons, opensource.science)
 
 

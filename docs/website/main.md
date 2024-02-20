@@ -3,7 +3,7 @@
 <img align="right" width="200" style="border: 5px solid transparent;" src="images/Gemini_Generated_GW_OSPO_Logo.jpeg">
 
 ## Overview
-Our team is committed to fostering a culture of networked collaboration, promoting open-source software development, open data, and open access in research and education.  We will support the university community in adoption of open practices to ensure we maximize our impact on a global scale based on GWU’s research, teaching and policy expertise.
+Our team is committed to fostering a culture of networked collaboration, promoting open-source software development, open data, and open access in research and education.  We will support the university community in adoption of open practices to ensure we maximize our impact on a local and global scale to leverage GWU’s research, teaching, and policy expertise.
 
 Core objectives:
  - Create a centralized organizational entity advocating for open practices initiatives.
@@ -22,3 +22,6 @@ Core objectives:
  - OSS enables innovation better than closed development
 
  To learn more about how the OSPO can support your open source work or if you are excited to join the GW open source community, please contact us by email at ospo@gwu.edu.
+
+ <img align="left" width="100" style="border: 10px solid transparent;" src="images/Alfred_P_Sloan_Foundation_Logo.png">
+ GW's Open Source Programs Office is generously supported by the Alfred P. Sloan Foundation.
