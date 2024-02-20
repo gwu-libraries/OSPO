@@ -3,8 +3,8 @@
 # OSPO Open Source Software Prizes
 
 The GW University OSPO is awarding a minimun of $2000 in prizes annually for two contests beginning in 2024.  The goal of this award program is to encourage students to create and engage with open source software communities and learn skills to develop software collaboratively.  The students’ efforts will improve research reproducibility as well as helping students prepare for careers in research and industry.
-1. [Group Collaboration Awards](#1.-group-collaboration-awards) - separate tracks for undergraduates and graduate students each with 1st and 2nd place awards.
-2. [Individual Contributor Awards](#1.-individual-contributor-awards) - four $100 awards for at least one meaningful contribution to a public open source project.
+1. [Group Collaboration Awards](#1-group-collaboration-awards) - separate tracks for undergraduates and graduate students each with 1st and 2nd place awards.
+2. [Individual Contributor Awards](#2-individual-contributor-awards) - four $100 awards for at least one meaningful contribution to a public open source project.
 
 -------------------
 
