@@ -13,8 +13,8 @@ Core objectives:
 
 ## Why should you consider joining the open source community?
  - Connect with a global community of engineers and scientists passionate about sharing knowledge and solving important challenges.
- - Learn how to deliver high quality and reproducable research
- - Learn skills to develop code in a collaborative development environement that will translate well to careers in industry.
+ - Learn how to deliver high quality and reproducible research
+ - Learn skills to develop code in a collaborative development environment that will translate well to careers in industry.
  - Learn skills to build and deploy production code
  - Support and improve a tool you love
  - Public OSS will always be available to you after you leave a project or a company
