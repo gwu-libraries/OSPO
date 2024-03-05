@@ -33,6 +33,6 @@ The Office of Science and Technology Policy (OSTP) released the [Nelson Memo](ht
         - open data: support following FAIR guidelines and developing data management plans.
         - open source software: researchers are generally NOT software engineers, so we are here to help you learn open software best practices and help give you information so you can decide what platforms, tools, and practices are right for your project.
 
-[Book an appointment](https://calendly.com/david-lippert/30min)
+[Book a consultation](https://calendly.com/david-lippert/30min)
 
 We hope these services will help GW compete even better for future grants and more importantly we are excited to be a part of maximizing the quality, reproducibility, and accessibility of science at GW.
