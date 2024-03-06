@@ -17,6 +17,13 @@ Competition for creating Open Source Software (OSS) projects and learning to dev
 | 1st Prize | $500 | $500 |
 | 2nd Prize | $250 | $250 |
 
+- RISE Open conference ticket for each team member
+- GW Open Collaboration award certificate for each team member
+
+Everyone:
+- All participants who complete the challenge will be awarded a GW Open Collaboration completion certificate, signed by the GW OSPO Director 
+- All participants may also submit their GWOpenStory sharing their experience, learnings, and growth with the GW Open Source Collaboration Challenge for a chance to be featured on the SustainOSS Podcast.
+
 ### Application Guidance
 Entries will be reviewed by a committee composed of GW faculty and staff.  To apply, complete the application form and email it to ospo@gwu.edu
 
